@@ -1,0 +1,14 @@
+1. main html file
+2. core JS logic
+3. web hosting
+4. CSS styling
+5. backend processing??
+
+
+Ideas:
+
+custom kernel
+improve algo
+median instead of average
+more options (sliders)
+hover compare

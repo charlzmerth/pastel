@@ -1,11 +1,12 @@
 # Pastel
-Charlie Merth EE 440 Final Project
+EE 440 Final Project, by Charlie Merth
 
 
 ## Effects
 
 My project is an implementation of an artistic-style filter which gives the input image an illustration look.
 
+![demo image](./pasteldemo.png)
 
 
 ## Implementation
@@ -23,11 +24,9 @@ I then was able to do everything that is possible with openCV on Python or C++. 
 Every function involved in the image processing was written by myself (including all convolution functions), with the exception of cv.imread, cv.imshow, etc.
 
 
-
 ## Instructions
 
 To begin, simply open main.html in a web browser (preferrably Chrome or Firefox). My GUI is very simple, in that the user only needs to click the "Choose File" button and upload an image. The preview will show the uploaded image. Then, click "pastel-ify" to apply the effect, and the result image will show on the right side. Lena.bmp is included as a test image.
-
 
 
 ## Reflection

@@ -1,5 +1,5 @@
-# Charlie Merth
-EE 440 Final Project
+# Pastel
+Charlie Merth EE 440 Final Project
 
 
 ## Effects
